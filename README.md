@@ -1,2 +1,0 @@
-# CRA-starter
-CRA template
